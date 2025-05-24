@@ -9,6 +9,7 @@ def menu():
     print("4. Listar produtos")
     print("5. Produtos com estoque baixo")
     print("6. Sair")
+    print("teste")
 
 def executar():
     criar_tabelas()
